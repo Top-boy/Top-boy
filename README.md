@@ -1,8 +1,8 @@
 <p>- 👋 Hi, I’m @Top-boy</p>
 - 👀 I’m interested in ... blockchain development 
 - 🌱 I’m currently learning ...html and css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
 
 <!---
 Top-boy/Top-boy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
