@@ -1,6 +1,6 @@
 <p>- 👋 Hi, I’m @Top-boy</p>
 - 👀 I’m interested in ... blockchain development 
-- 🌱 I’m currently learning ...html and css
+- 🌱 I’m currently learning ...
 
 
 
